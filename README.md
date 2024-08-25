@@ -43,10 +43,10 @@ This repository contains the code for the Assignment-3 of Distributed Systems(CS
 
 
 # Group Details
-Repo Link: https://github.com/PranavMehrotra/A3_Distributed_Systems 
-1. Pranav Mehrotra (20CS10085)
-2. Saransh Sharma (20CS30065)
-3. Pranav Nyati (20CS30037)
+Repo Link: https://github.com/PranavNyati/Distributed_Database_with_Load_Balancing_and_Sharding 
+1. Pranav Nyati (20CS30037)
+2. Pranav Mehrotra (20CS10085) 
+3. Saransh Sharma (20CS30065)
 4. Shreyas Jena (20CS30049)
 
 
